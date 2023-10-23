@@ -16,6 +16,7 @@ En este ejercicio, creamos un contenedor (div) y lo dividimos en una cuadrícula
     <title>Ejercicio 5: Diseño de cuadrículas (Grid)</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
+
   <body>
     <div class="grid-container">
       <div class="grid-item">Celda 1</div>

@@ -1,0 +1,21 @@
+
+p {
+    background-color: rgb(138, 191, 209);
+  }
+
+  .destacado {
+    border: 2px solid red;
+    font-size: 18px;
+  }
+  
+  #parrafo-grande {
+    font-size: 24px;
+  }
+  
+a {
+    background-color: rgb(163, 191, 166);
+  }
+
+  b {
+    background-color: rgb(214, 200, 128);
+  }
