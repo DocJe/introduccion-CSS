@@ -15,6 +15,7 @@ En este ejercicio, creamos un documento HTML y aplicamos estilos CSS utilizando 
     <title>Ejercicio 10: Unidades relativas y de pantalla</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
+  
   <body>
     <div class="box">
       <p>Este es un párrafo con un tamaño de fuente de 1.5em.</p>

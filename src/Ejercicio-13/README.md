@@ -15,6 +15,7 @@ En este ejercicio, crearás una página web de presentación personal utilizando
     <title>Mi Página Personal</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
+
   <body>
     <header>
       <h1>Mi Nombre</h1>
@@ -26,6 +27,7 @@ En este ejercicio, crearás una página web de presentación personal utilizando
         </ul>
       </nav>
     </header>
+
     <section id="about">
       <h2>Acerca de mí</h2>
       <p>
@@ -33,6 +35,7 @@ En este ejercicio, crearás una página web de presentación personal utilizando
         es...
       </p>
     </section>
+
     <section id="portfolio">
       <h2>Portafolio</h2>
       <div class="project">
@@ -49,6 +52,7 @@ En este ejercicio, crearás una página web de presentación personal utilizando
         <p>Descripción breve del proyecto.</p>
       </div>
     </section>
+
     <section id="contact">
       <h2>Contacto</h2>
       <form>
@@ -58,6 +62,7 @@ En este ejercicio, crearás una página web de presentación personal utilizando
         <button type="submit">Enviar</button>
       </form>
     </section>
+    
     <footer>
       <p>&copy; 2023 Mi Página Personal. Todos los derechos reservados.</p>
     </footer>

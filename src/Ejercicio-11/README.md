@@ -15,6 +15,7 @@ En este ejercicio, aplicamos estilos utilizando pseudoclasses y pseudolementos e
     <title>Ejercicio 11: Pseudoclasses y pseudolementos</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
+  
   <body>
     <button class="button">Haz clic aquí</button>
     <a href="#" class="link">Enlace</a>
